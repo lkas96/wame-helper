@@ -23,7 +23,7 @@ function App() {
               rel="noreferrer"
               className="btn btn-outline-light btn-sm me-2"
             >
-              <i className="bi bi-github me-1"></i> GitHub
+              <i className="bi bi-github me-1"></i>GitHub
             </a>
             <a
               href="https://www.linkedin.com/in/lawson-kwek-7ab874165/"
@@ -31,7 +31,7 @@ function App() {
               rel="noreferrer"
               className="btn btn-outline-light btn-sm"
             >
-              <i className="bi bi-linkedin me-1"></i> LinkedIn
+              <i className="bi bi-linkedin me-1"></i>LinkedIn
             </a>
           </div>
         </div>
