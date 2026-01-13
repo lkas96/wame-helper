@@ -8,8 +8,8 @@ const Body = () => {
   const [error, setError] = useState<string | null>(null);
 
   const [messages, setMessages] = useState({
-    Promotion: "Hello! Check out our latest sale: 20% off all items!",
-    Support: "Hi there, how can we help you with your order today?",
+    Promotion: "Hello! Check out our latest sale: 20% off all items! ",
+    Support: "Hi there, how can we help you with your order today? ",
     Custom: "",
   });
 
