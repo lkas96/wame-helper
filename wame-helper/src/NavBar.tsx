@@ -1,8 +1,8 @@
 const NavBar = () => {
   return (
-    <nav className="navbar bg-body-tertiary">
-      <div className="container-fluid bg-dark px-4 py-2">
-        <a className="navbar-brand text-white" href="#">
+    <nav className="navbar bg-dark">
+      <div className="container-fluid justify-content-center">
+        <a className="navbar-brand" href="#" style={{color:'#FFFFFF80'}}>
           {/* <img
             src="/docs/5.3/assets/brand/bootstrap-logo.svg"
             alt="Logo"
@@ -10,7 +10,7 @@ const NavBar = () => {
             height="24"
             className="d-inline-block align-text-top"
           ></img> */}
-          wame-helper
+          WhatsApp Helper
         </a>
       </div>
     </nav>
