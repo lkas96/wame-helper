@@ -1,8 +1,8 @@
 const NavBar = () => {
   return (
     <nav className="navbar bg-body-tertiary">
-      <div className="container-fluid">
-        <a className="navbar-brand" href="#">
+      <div className="container-fluid bg-dark px-4 py-2">
+        <a className="navbar-brand text-white" href="#">
           {/* <img
             src="/docs/5.3/assets/brand/bootstrap-logo.svg"
             alt="Logo"

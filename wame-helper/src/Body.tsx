@@ -64,7 +64,7 @@ const Body = () => {
   };
 
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 ">
       {/* BOOTSTRAP RED WARNING BOX */}
       {error && (
         <div className="alert alert-danger alert-dismissible fade show" role="alert">
